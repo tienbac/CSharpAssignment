@@ -21,7 +21,6 @@ namespace StudentsMansger.Menu
             Console.WriteLine("<=      6 : EXIT              =>");
             Console.WriteLine("<==============================>\n");
             Console.Write("Enter your choice: ");
-            Console.Write("Fuck u bict");
             int choice = int.Parse(Console.ReadLine());
 
             switch (choice)
