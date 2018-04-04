@@ -1,0 +1,11 @@
+d:\Documents\Visual Studio 2017\Projects\StudentsManagerAssignment\StudentsMansger\bin\Debug\netcoreapp2.0\StudentsMansger.deps.json
+d:\Documents\Visual Studio 2017\Projects\StudentsManagerAssignment\StudentsMansger\bin\Debug\netcoreapp2.0\StudentsMansger.runtimeconfig.json
+d:\Documents\Visual Studio 2017\Projects\StudentsManagerAssignment\StudentsMansger\bin\Debug\netcoreapp2.0\StudentsMansger.runtimeconfig.dev.json
+d:\Documents\Visual Studio 2017\Projects\StudentsManagerAssignment\StudentsMansger\bin\Debug\netcoreapp2.0\StudentsMansger.dll
+d:\Documents\Visual Studio 2017\Projects\StudentsManagerAssignment\StudentsMansger\obj\Debug\netcoreapp2.0\StudentsMansger.csprojResolveAssemblyReference.cache
+d:\Documents\Visual Studio 2017\Projects\StudentsManagerAssignment\StudentsMansger\obj\Debug\netcoreapp2.0\StudentsMansger.csproj.CoreCompileInputs.cache
+d:\Documents\Visual Studio 2017\Projects\StudentsManagerAssignment\StudentsMansger\obj\Debug\netcoreapp2.0\StudentsMansger.AssemblyInfoInputs.cache
+d:\Documents\Visual Studio 2017\Projects\StudentsManagerAssignment\StudentsMansger\obj\Debug\netcoreapp2.0\StudentsMansger.AssemblyInfo.cs
+d:\Documents\Visual Studio 2017\Projects\StudentsManagerAssignment\StudentsMansger\bin\Debug\netcoreapp2.0\StudentsMansger.pdb
+d:\Documents\Visual Studio 2017\Projects\StudentsManagerAssignment\StudentsMansger\obj\Debug\netcoreapp2.0\StudentsMansger.dll
+d:\Documents\Visual Studio 2017\Projects\StudentsManagerAssignment\StudentsMansger\obj\Debug\netcoreapp2.0\StudentsMansger.pdb
